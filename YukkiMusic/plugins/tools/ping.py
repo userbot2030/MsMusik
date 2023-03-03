@@ -36,11 +36,11 @@ async def ping_com(client, message: Message, _):
         caption=_["ping_1"],
     )
     start = datetime.now()
-    pytgping = await yukki.ping()
+    pytgping = await Yukki.ping()
     UP, CPU, RAM, DISK = await bot_sys_stats()
     resp = (datetime.now() - start).microseconds / 1000
     await response.edit_text(
         _["ping_2"].format(
-            resp, MUSIC_BOT_NAME, UP, RAM, CPU, DISK, pytgping
+            MUSIC_BOT_NAME, resp, UP, DISK, CPU, RAM, pytgping
         )
     )
