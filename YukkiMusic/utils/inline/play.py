@@ -62,7 +62,13 @@ def track_markup(_, videoid, user_id, channel, fplay):
     return buttons
 def stream_markup(_, videoid):
     buttons = [
-        
+             [
+
+
+            InlineKeyboardButton(
+                text=_["S_B_9"], url=f"https://t.me/Ndablexz_Management",
+            ),
+        ],
              
 
 
