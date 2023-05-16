@@ -1,7 +1,7 @@
 {
     "name": "RitoMusik ",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/6d9c1f5e4acb05d24e784.jpg",
+    "logo": "https://telegra.ph/file/9f93ca1114a1e01b63239.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "16452568",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "f936697c5c9e5bffd433babef7a4e4c9",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
