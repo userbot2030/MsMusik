@@ -1,5 +1,5 @@
 {
-    "name": "RitoMusik ",
+    "name": "ʙᴇʀʟɪɴ ꭙ͢ ꝛσʙσᴛ ",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
     "logo": "https://telegra.ph/file/9f93ca1114a1e01b63239.jpg",
     "keywords": [
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "16452568",
+        "value": "24504435",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "f936697c5c9e5bffd433babef7a4e4c9",
+        "value": "da8a64238b084253775857f38678660b",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -30,32 +30,32 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "6135290396:AAF7UgILn63OaK17nErr2Z_DGK9Tqvn4d98",
+        "value": "6122192269:AAH2PD_tgxGRRmpCYmn6i8mZZmB8yu_ALrc",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
-        "value": "mongodb+srv://Muhammad:new37@cluster0.i5k0icq.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://Kanjutsu:1234@cluster0.3oqm0lm.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "ManzokuRobot",
+        "value": "ntberlinmusicbot",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "1337085565",
+        "value": "1499130346",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "BQC_iz9P4Gomq73DW2DZaHNWN6Th-BEuza0xyAT1Qz2etqDFdZyYzNz-QzI65yMBmecnEVaPSmcr4yT7WzQ5eRtpZnpxFRNW4jB79d42gDPiVQpRMsEqqli9rc_vIcnyRag86zbLtpxK5yhjz9atfqJXYa1JbLJ75J5LuBuHqBsMib-VN4VniooEkLJDFTUpU3mSx4oNG2-KxcXpoAA0FXU8JMZW_xKwbivuJPqquy9WUuhYsXlUjAcvMI8dg0nE3EI_MtpNu7V_x7-h0KFjQPyEt6VQe-vUk9AxS6WhCpqc9lnPogatw_3QsE2g69QLYQ-Hb9im4ywqJ072W-ZxwqykaN5KDwA",
+        "value": "BQF16HMAawG0tI0jt9AtzzpxU3UPlb2rbjruWCjYCDBQCi_iXPxMh2KKEU11weiW5-l6Tmn0dPpb6N-yHk2wRCLLVxMavtVgKiFtawesrRargk7ug7TEg5ZfXIkn2L-87ebdU1lbzimotT1XadbZIT2UekzYjcOv_B1Ka5Mo-j_QcQzXcQQ2uDYU9XD_PSJnDoDKOm3SyZO4D1KkQf-dOKXnTXcA2_wzkDRQzzxhvfBu0xGBwnRYB0Gg9z095ExMn1Pg0kgZe9F95rAlenbBXvr_ADCYkRfjv_fM_eRJU7JX04g2F5IS9u09qIGly7cP-u2Jb98dn3Hp4xR2tjHqW1FanJTQAAAAFz-TtBAA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "a21794af-7e77-40e0-8fb5-958f2735bd93",
         "required": false
       },
       "HEROKU_APP_NAME": {
@@ -65,12 +65,12 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "-1001935424604",
+        "value": "-1002049500040",
         "required": true
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/MS-DZULQURNAIN/RitoMusik",
+        "value": "https://github.com/kansya-nt/RitoMusik",
         "required": true
       },
       "UPSTREAM_BRANCH": {
