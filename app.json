@@ -30,7 +30,7 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "6122192269:AAH2PD_tgxGRRmpCYmn6i8mZZmB8yu_ALrc",
+        "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -40,12 +40,12 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "ntberlinmusicbot",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "1499130346",
+        "value": "6024180996",
         "required": true
       },
       "STRING_SESSION": {
@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/kansya-nt/RitoMusik",
+        "value": "https://github.com/kansya-nt/MsMusik",
         "required": true
       },
       "UPSTREAM_BRANCH": {
