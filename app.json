@@ -48,7 +48,7 @@
         "value": "6 0 2 4 1 8 0 9 9 6",
         "required": true
       },
-      "STRING_SESSION": {
+      "STRING1": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
         "value": "BQFkn0MAmk3nxVPWkiGHO6zTlFS1qigNqwU6mqhM9L9BnBWznLuUTfB3w1izZ-2RysqFYVl7i3lv6mC7AUtFyCr6kc8wzKKAz7ZzzcxKYGNIx4UDuCK93TuGECs8f-tVR8Cs7ONMSVGyV841cX5Wvi0HViuNHtR-wuW9ST4KdO9bxwLlAAZ-f9t7-YPGIVnOumQD0gMvF6AE16qUG4rTY-AtrjRuBkGFX9u8VQRsAQLDJCeCkk2ytBEDUh_onEW-1bA88iCg10UAnJkyBFRcF0pvPwO9Ym2UnjT8gvEdwogsD7JHUUHkYcyR6i838VwSTzb2HyFi7xv6GkyzxheA97q5TyjtcAAAAABZWunqAA",
         "required": true
