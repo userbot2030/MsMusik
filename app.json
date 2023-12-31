@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "24504435",
+        "value": "23371587",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "da8a64238b084253775857f38678660b",
+        "value": "a014ed669df0aa68734b5ecf93e65a3a",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -30,7 +30,7 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "6742240257:AAHH7RDQILs6eHQFtdXwy02eLFsuNheQsx0",
+        "value": "6525543956:AAHXXguS_-fE0zIZuBaFKEDjtIAoNhbHSG0",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -40,22 +40,22 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "berlingenstringbot",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "1 4 9 9 1 3 0 3 4 6",
+        "value": "6 0 2 4 1 8 0 9 9 6",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "BQE6eJIAEgfU7b1gVYjvdnKHVwPN1ZPd_yq7kH-EHq9iwswu5loXJhauL7ymr181lEj8WVBaSwg_1CCRFOFmmGhNGWvrPmPhiqsKPT-Gc2_bi0ydLnJb9JuB7UszVacJ_QNP5Y2dKJDPHB1H_YfodsHXlmR028MjtWs-xVaK-hb0W52BRDYsgI8Ql3bDSPouO0J9E3sofQVUWaEbKWYdMPW-YXWH_zdy2ston6Qr-QIAwHsjWMDj17TlP4JrsjIgJT_N0tqwRURbvI5j71sMZDPnyw4gmBzkwKhrzl3zhrAdIrM_q1egR94IRvdsCy-p6SqTjOSgCQE_8VpxeZ3NN3fhv4_jeAAAAAFat6hMAA",
+        "value": "BQFkn0MAmk3nxVPWkiGHO6zTlFS1qigNqwU6mqhM9L9BnBWznLuUTfB3w1izZ-2RysqFYVl7i3lv6mC7AUtFyCr6kc8wzKKAz7ZzzcxKYGNIx4UDuCK93TuGECs8f-tVR8Cs7ONMSVGyV841cX5Wvi0HViuNHtR-wuW9ST4KdO9bxwLlAAZ-f9t7-YPGIVnOumQD0gMvF6AE16qUG4rTY-AtrjRuBkGFX9u8VQRsAQLDJCeCkk2ytBEDUh_onEW-1bA88iCg10UAnJkyBFRcF0pvPwO9Ym2UnjT8gvEdwogsD7JHUUHkYcyR6i838VwSTzb2HyFi7xv6GkyzxheA97q5TyjtcAAAAABZWunqAA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "a21794af-7e77-40e0-8fb5-958f2735bd93",
+        "value": "a4bace5e-6157-4222-8b67-e606750f8233",
         "required": false
       },
       "HEROKU_APP_NAME": {
