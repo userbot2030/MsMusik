@@ -32,7 +32,7 @@ async def init():
         and not config.STRING4
         and not config.STRING5
     ):
-        LOGGER("YukkiMusic").error(
+        LOGGER("RadioGreatFM").error(
             "Tidak Ada Asisten Klien yang Ditentukan Vars!.. Proses Keluar."
         )
         return
@@ -40,7 +40,7 @@ async def init():
         not config.SPOTIFY_CLIENT_ID
         and not config.SPOTIFY_CLIENT_SECRET
     ):
-        LOGGER("YukkiMusic").warning(
+        LOGGER("RadioGreatFM").warning(
             "Tidak ada Spotify Vars yang ditentukan.  Bot Anda tidak akan dapat memainkan kueri spotify."
         )
     try:
@@ -65,17 +65,17 @@ async def init():
             "http://docs.evostream.com/sample_content/assets/sintel1m720p.mp4"
         )
     except NoActiveGroupCall:
-        LOGGER("YukkiMusic").error(
-            "[ERROR] - \n\nHarap aktifkan Obrolan Suara Grup Logger Anda.  Pastikan Anda tidak pernah menutup/mengakhiri obrolan suara di grup log Anda"
+        LOGGER("RadioGreatFM").error(
+            "[RadioGreatFM] - \n\nHarap aktifkan Obrolan Suara Grup Logger Anda.  Pastikan Anda tidak pernah menutup/mengakhiri obrolan suara di grup log Anda"
         )
         sys.exit()
     except:
         pass
     await Yukki.decorators()
-    LOGGER("YukkiMusic").info("XYukki Music Bot Started Successfully")
+    LOGGER("RadioGreatFM").info("RadioGreatFM Music Bot Started Successfully")
     await idle()
 
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("YukkiMusic").info("Stopping XYukki ! GoodBye")
+    LOGGER("RadioGreatFM").info("Stopping RadioGreatFM ! GoodBye")
